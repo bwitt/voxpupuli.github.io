@@ -6,7 +6,7 @@ summary: Guidance for reviewing a pull request and criteria for merging.
 ---
 
 There are a few things that can be checked if you review a pull request against
-one of our modules:
+one of our modules. See also the [module best practices](/docs/module_best_practices/).
 
 * Does the email address used in the commits match the github email address? (This will let github display the contributor's avatar next to the commit)
 * Is this a bugfix, modulesync, breaking change, enhancement, docs update? Label it with `bug`, `modulesync`, `backwards-incompatible`, `enhancement`, `docs`
